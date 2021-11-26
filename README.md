@@ -1,6 +1,15 @@
-#Olá!! Eu sou Victor Moraes 
+##  Olá!! Eu sou Victor Moraes!
 
 - 🔭 Aluno na ETEC Dep. Salim Sedeh (Ensino médio integrado ao curso desenvolvimento de sistemas)
+- Contato:
+<div>
+   <a href = "mailto: leandrovieira92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/leandroviieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/twotvgames" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/leandroviieira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+
 - 💻 Conhecimento em:
 <div style="display: inline_block">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
